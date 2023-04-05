@@ -1,0 +1,1 @@
+A simple HTML and CSS animatin using font awesome icons.
